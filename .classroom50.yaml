@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "mru-csis-3512-001-202604-lec-classroom"
+assignment: "lec-03-php-lec-02"
+secret: "6mzki0v9"
+owner:
+  username: "jpratt-mru"
+  id: 29438487
+  accepted_at: "2026-09-11T14:19:18Z"
+source:
+  owner: "MRU-CSIS-3512-001-202604-LEC"
+  owner_id: 313091454
+  repo: "lec-03-php-lec-02-start"
+  branch: "main"
