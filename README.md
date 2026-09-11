@@ -1,2 +1,2 @@
 # Lec-03 (2026-09-11)
-## PHP Lec 02
+## PHP Lec 02 (ending repo state)
